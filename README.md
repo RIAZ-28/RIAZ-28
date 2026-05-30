@@ -1,5 +1,5 @@
 # 💫 About Me:
-A multipotentialite,<br>Interested in embedded systems, cyber security, robotics, AI/ML applications, and web development<br>Founder of ENQUEbet-where ideas turn into reality,<br>Now I am currently working on computer vision using AI and ML models,  and backend dev.<br><br>
+A multipotentialite,<br>Interested in embedded systems, cyber security, robotics, AI/ML applications, and web development,<br>Now I am currently working on computer vision using AI and ML models, basic of electronics and intelligent circuits.<br><br>
 
 
 ## 🌐 Socials:
